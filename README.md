@@ -61,3 +61,23 @@ Comments only encourage the weak to modify your code. You don't want them
 leaking any of their estrogen on your manly code, so don't encourage them by
 adding comments.
 
+5. TDD'ers always use global variables.
+---------------------------------------
+Your testosteronian influence is global why shouldn't your variables be also?
+Yes there are some little pre-pubescent boys that can't hold global state and
+every execution path that could mutate said state in their tiny immature minds
+while simultaneously hammering out studly man code. But do you really want those
+little boys hanging around while you emit scorching hormone fireballs from your
+oral orifice every time you vocalize your algorithm in your sultry Bary Manilow
+voice? Of course not their screams might interrupt your flow and their tears
+might fall into your keyboard or worse your RedBull.
+
+6. TDD'ers never use third party libraries.
+-------------------------------------------
+You don't wear your Mom's underwear now do you? Why because they are filthy. You
+know third party libraries are filthy too. They were written by people who are
+dumber than you, and weaker than you. You know that third party libraries only
+works for those thousands of other developers because they don't write *real*
+software like you do, they just write toy software and other garbage.
+
+
